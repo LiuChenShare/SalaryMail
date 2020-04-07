@@ -1,0 +1,200 @@
+{
+	"FirstRowColumn": "3",
+	"Title": [
+		{
+			"Index": "0",
+			"Name": "序号",
+			"Display": false
+		},
+		{
+			"Index": "1",
+			"Name": "部门",
+			"Display": true
+		},
+		{
+			"Index": "2",
+			"Name": "姓名",
+			"Display": true
+		},
+		{
+			"Index": "3",
+			"Name": "邮箱",
+			"Display": true
+		},
+		{
+			"Index": "4",
+			"Name": "职位",
+			"Display": true
+		},
+		{
+			"Index": "5",
+			"Name": "职级",
+			"Display": true
+		},
+		{
+			"Index": "6",
+			"Name": "职等",
+			"Display": true
+		},
+		{
+			"Index": "7",
+			"Name": "入职日期",
+			"Display": true
+		},
+		{
+			"Index": "8",
+			"Name": "月薪(KB）",
+			"Display": true
+		},
+		{
+			"Index": "9",
+			"Name": "基本工资",
+			"Display": true
+		},
+		{
+			"Index": "10",
+			"Name": "岗位工资",
+			"Display": true
+		},
+		{
+			"Index": "11",
+			"Name": "绩效工资",
+			"Display": true
+		},
+		{
+			"Index": "12",
+			"Name": "考核系数",
+			"Display": true
+		},
+		{
+			"Index": "13",
+			"Name": "考核工资",
+			"Display": true
+		},
+		{
+			"Index": "14",
+			"Name": "工资小计",
+			"Display": true
+		},
+		{
+			"Index": "15",
+			"Name": "加班费",
+			"Display": true
+		},
+		{
+			"Index": "16",
+			"Name": "加班时数",
+			"Display": true
+		},
+		{
+			"Index": "17",
+			"Name": "津贴类",
+			"Display": true
+		},
+		{
+			"Index": "18",
+			"Name": "误餐补助",
+			"Display": true
+		},
+		{
+			"Index": "19",
+			"Name": "加班补助",
+			"Display": true
+		},
+		{
+			"Index": "20",
+			"Name": "交通费",
+			"Display": true
+		},
+		{
+			"Index": "21",
+			"Name": "其他",
+			"Display": true
+		},
+		{
+			"Index": "22",
+			"Name": "其他小计",
+			"Display": true
+		},
+		{
+			"Index": "23",
+			"Name": "旷工天数",
+			"Display": true
+		},
+		{
+			"Index": "24",
+			"Name": "旷工扣款",
+			"Display": true
+		},
+		{
+			"Index": "25",
+			"Name": "入离职天数",
+			"Display": true
+		},
+		{
+			"Index": "26",
+			"Name": "入离职扣款",
+			"Display": true
+		},
+		{
+			"Index": "27",
+			"Name": "缺勤天数",
+			"Display": true
+		},
+		{
+			"Index": "28",
+			"Name": "缺勤扣款",
+			"Display": true
+		},
+		{
+			"Index": "29",
+			"Name": "其他罚扣款",
+			"Display": true
+		},
+		{
+			"Index": "30",
+			"Name": "扣款小计",
+			"Display": true
+		},
+		{
+			"Index": "31",
+			"Name": "应发工资",
+			"Display": true
+		},
+		{
+			"Index": "32",
+			"Name": "应扣社保",
+			"Display": true
+		},
+		{
+			"Index": "33",
+			"Name": "应扣公积金",
+			"Display": true
+		},
+		{
+			"Index": "34",
+			"Name": "应税工资",
+			"Display": true
+		},
+		{
+			"Index": "35",
+			"Name": "应扣税款",
+			"Display": true
+		},
+		{
+			"Index": "36",
+			"Name": "实发工资",
+			"Display": true
+		},
+		{
+			"Index": "37",
+			"Name": "补贴",
+			"Display": true
+		},
+		{
+			"Index": "38",
+			"Name": "总计",
+			"Display": true
+		}
+	]
+}
